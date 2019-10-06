@@ -11,7 +11,7 @@
 **creator** built this **product** as a free product.  
 **product** is provided by **creator** at no cost and is intended for use as is.  
 **product** do not address anyone under the age of 18.  
-**creator** may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page.
+**creator** may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes, which effective immediately, after they are posted on this page.
 
 ***  
 ## Information Collection and Use ##  
