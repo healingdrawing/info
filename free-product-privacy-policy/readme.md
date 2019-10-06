@@ -40,4 +40,4 @@
 **creator** do not knowingly collect personal identifiable info from persons under 18. In the case of discover that a person under 18 has provided **creator** with personal info, info will immediately delete from **creator** data storage. If you are a parent or guardian and you are aware that your child has provided **creator** with personal information, please contact **creator** so that will be able to do necessary actions.
 
 ## Contacts ##  
-If you have any questions or suggestions about this Privacy Policy, contact **creator** at `kyznector☭gmail.com`.
+If you have any questions or suggestions about this Privacy Policy, contact **creator** at `kyznector☭gmail.com` .
