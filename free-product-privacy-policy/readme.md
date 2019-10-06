@@ -1,11 +1,11 @@
 # Privacy Policy #  
 ***
-* **creator**  
-* **product**  
-* **external services**  
-* **external companies** - third-party companies
-* **external sites**
-* **use**  
+* **creator** - developer, development team, development company, which made product
+* **product** - digital solution, created by **creator**(desktop software, app, apk in google play store, etc)
+* **external services**  third-party services, developed and provided separately from **creator**. F.e. Google/Firebase, Google/Admob, etc
+* **external companies** - third-party companies which provide improved analytics solutions etc.
+* **external sites** - third-party sites not created and not supported by **creator**
+* **use** - **product** using (downloading, installing, playing, gaming, editing, storing on device, deleting from device, updating, upgrading) process.
 ***
 
 **creator** built this **product** as a free product.  
@@ -40,4 +40,4 @@
 **creator** do not knowingly collect personal identifiable info from persons under 18. In the case of discover that a person under 18 has provided **creator** with personal info, info will immediately delete from **creator** data storage. If you are a parent or guardian and you are aware that your child has provided **creator** with personal information, please contact **creator** so that will be able to do necessary actions.
 
 ## Contacts ##  
-If you have any questions or suggestions about this Privacy Policy, contact me at `kyznector☭gmail.com`.
+If you have any questions or suggestions about this Privacy Policy, contact **creator** at `kyznector☭gmail.com`.
