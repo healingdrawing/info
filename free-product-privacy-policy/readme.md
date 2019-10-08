@@ -11,12 +11,12 @@
 **creator** built this **product** as a free product.  
 **product** is provided by **creator** at no cost and is intended for use as is.  
 **product** do not address anyone under the age of 18.  
-**creator** may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes, which effective immediately, after they are posted on this page.
+**creator** may update Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes, which effective immediately, after they are posted on this page.
 
 ***  
 ## Information Collection and Use ##  
 **use** requires you to agree to the following changes:
- - To improve **use** quality, **product** may require that you provide the **creator** with certain personal information, including, but not limited to, the country of your origin, the device used and the OS version number. Requested information is stored on your device and is not collected by the **creator** in any way and is used as described in this privacy policy.  
+ - to improve **use** quality, **product** may require that you provide the **creator** with certain personal information, including, but not limited to, the country of your origin, the device used and the OS version number. Requested information is stored on your device and is not collected by the **creator** in any way and is used as described in this privacy policy.  
  - **product** does use **external services** that may collect information used to identify you.  
  - in case of an error in the **product**, **creator** collect data and information (through **external services**) on your phone called Log Data. This Log Data may include information such as your devices’s Internet Protocol "IP" address, device name, OS version, configuration of the **product** and **external services**, the time and date of your use of the **product**, and other statistics.  
  ***
