@@ -1,7 +1,6 @@
 
 <html>
     <head>
-        <title>Free Product Privacy Policy</title>
         <link rel=stylesheet type="text/css" href="css/style.css">
     </head>
     <body>
