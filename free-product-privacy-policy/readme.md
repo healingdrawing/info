@@ -16,11 +16,6 @@
                 <li><b>USE</b> - <b>PRODUCT</b> using (downloading, installing, playing, gaming, editing, storing on device, deleting from device, updating, upgrading) process.</li>
             </ul>
             <hr>
-            <h2>
-                <b>CREATOR</b> <div class="creator"><b>CREATOR</b></div>
-                <br> <b>PRODUCT</b> <div class="product"><b>PRODUCT</b></div>
-            </h2>
-            <hr>
             <br> <b>CREATOR</b> built this <b>PRODUCT</b> as a free product.
             <br> <b>PRODUCT</b> is provided by <b>CREATOR</b> at no cost and is intended for use as is.
             <br> <b>PRODUCT</b> do not address anyone under the age of 18.
